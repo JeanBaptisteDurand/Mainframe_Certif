@@ -1,0 +1,27 @@
+Level 0 – What is a Mainframe?
+URL: https://www.ibm.com/topics/mainframe
+
+Level 1 – IBM Z Xplore (free* with system access)
+URL: https://ibmzxplore.influitive.com
+
+A free learning platform focused on modern z/OS aspects, like editing with VS Code, configuring with Ansible, and programming with Python. It includes a competition for students and access to a real z/OS system. Expect to learn about working with data sets, mainframe fundamentals, subsystems, security, and exercises with REXX, COBOL, VSAM, JCL, Python, Db2.
+
+Level 2 – IBM z/OS Practitioner (free* with system access)
+URL: https://www.credly.com/org/ibm/badge/ibm-z-os-mainframe-practitioner or https://www.ibm.com/training/badge/ibm-z-os-mainframe-practitioner
+
+After Level 1, deepen your knowledge with the free IBM z/OS Practitioner training. It covers traditional z/OS environments like ISPF and ends with a certificate. The course is divided into three parts:
+
+Introduction to IBM z/OS (12h)
+
+Introduction to z/OS Commands and Panels on IBM Z (12h)
+
+Introduction to System Programming on IBM Z (12h)
+
+Level 3 – IBM Wazi as a Service (your own z/OS system in the cloud)
+URL: https://www.ibm.com/cloud/wazi-as-a-service
+
+After Levels 2 and 3, it's time for your own system to experiment further. IBM offers pre-configured z/OS systems in the cloud, but it's not free. You pay per hour of active use. IBM often has promotional codes for account credit. For a list of pre-configured z/OS systems, see:
+
+https://www.ibm.com/docs/en/wazi-aas/1.0.0?topic=vpc-configurations-in-zos-stock-images
+
+*Note: Our pricing information may be inaccurate or outdated, especially if this post is consulted long after publication.
