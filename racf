@@ -1,0 +1,89 @@
+Expertise with IBM Mainframe-specific security tools and technologies, such as RACF, zSecure, Syslog, CARLA, ICSF, etc
+Expertise of IBM Mainframe Z Series-specific security standards and frameworks such as z/OS Security, RACF, zSecure, etc
+Expertise with building out RACF reports in zSecure to support database authenticity
+Expertise with onboarding and decommissioning applications into RACF structures
+Extensive expertise of SSO, Active Directory (AD), LDAP, public key infrastructure (PKI), privileged accounts, integration of application program interface (API), implementation and support of digital certificates, Kerberos, SSL, SSH
+USS expertise is highly desired
+
+
+https://www.ibm.com/training/search?trainingType=Badge&mktgCategory=Security
+
+RACF IBM COURSE HIGH PRICES
+
+Day 1
+
+Welcome
+Unit 1: Review of z/Architecture and z/OS
+Unit 2: An introduction to ISPF and ISPF/PDF
+Exercise 1: Logging on to the lab system
+Unit 3: An introduction to z/OS data sets
+Exercise 2: Working with z/OS data sets
+Unit 4: Batch processing
+Exercise 3: Job submit and SDSF view Exercise review
+Unit 5: Security and RACF overview (part 1)
+Day 2
+
+Unit 5: Security and RACF overview (part 2)
+Unit 6: Administering groups and users (section 6.1)
+Exercise 4 (including review): Defining an RACF group structure
+Unit 6: Administering groups and users (section 6.2)
+Exercise 5: User administration Exercise review
+Day 3
+
+Unit 6: Administering groups and users (section 6.3)
+Exercise 6: Delegating security administration Exercise review
+Unit 7: Protecting z/OS data sets (to section 7.3)
+Exercise 7: Protecting z/OS data sets: Part 1 Exercise review
+Day 4
+
+Unit 7: Protecting z/OS data sets (continued)
+Exercise 8: Protecting z/OS data sets: Part 2 Exercise review
+Unit 8: Introduction to general resources
+Exercise 9: Using RACF for TSO administration
+Day 5
+
+Exercise review
+Unit 9: RACF options
+Unit 10: Other administrative facilities and features
+
+
+
+
+Contenu
+Day 1
+
+Welcome
+Unit 1 - Security and RACF overview
+Unit 2 - Administering groups and users
+Exercise 1 - Log on to the lab system
+Exercise 2 - Defining a RACF group structure
+Exercise 3 - User administration
+Day 2
+
+Exercise review
+Unit 2 - Administering groups and users (continued)
+Exercise 4 - Delegating security administration
+Unit 3 - Protecting z/OS data sets
+Exercise 5 - Protecting z/OS data sets: Part 1
+Day 3
+
+Exercise 5 - Protecting z/OS data sets: Part 1 (continued)
+Exercise 6 - Protecting z/OS data sets: Part 2 Exercise review
+Unit 4 - Introduction to user administration and delegation and general resources
+Exercise 7 - Password reset granularity
+Unit 5 - RACF database, tables, and performance options
+Day 4
+
+Unit 6 - RACF utilities and exits
+Unit 7 - RACF options
+Unit 8 - Auditing the RACF environment
+Exercise 8 - Using RACF for TSO administration (Optional)
+Exercise 9 - RACF utilities (Optional)
+Exercise 10 - RACF monitoring
+Day 5
+
+Exercise review
+Unit 9 - Storage management and RACF
+Unit 10 - Security for JES facilities
+Unit 11 - Security classification
+
