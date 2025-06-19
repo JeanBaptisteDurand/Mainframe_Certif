@@ -1,5 +1,6 @@
 # Mainframe_Certif
 
+```
 IBM Certified Associate
 IBM Certified Specialist
 IBM Certified Professional et Advanced Professional
@@ -10,6 +11,23 @@ certificat professionnel IBM Mainframe Developer
 IBM Certified Administrator – RACF (voire le parcours IBM Cybersecurity Analyst)
 
 
+
+racf long terme :
+Certification	Lien officiel / badge	Notes utiles pour un(e) candidat(e) junior
+IBM Certified Administrator – Security z/OS (RACF)	Collection Security / RACF Administrator – IBM Training 
+ibm.com
+
++ Parcours IBM Mainframe RACF Security Administrator Certificate (Interskill + IBM) 
+ibm.com
+interskill.com
+Depuis 2024, IBM regroupe la partie « Security z/OS / RACF » dans ce parcours professionnel (50–80 h de cours + examens). C’est l’héritier direct du badge “Administrator – Security z/OS” réclamé dans les offres.
+IBM Certified Specialist – z Security Technical Sales	Badge IBM Z Security Sales Foundations (Credly) 
+credly.com
+
++ Exam IBM Certified Specialist – z14 Technical Sales V2 (code C0002101) 
+ibm.com
+IBM a fusionné ses anciens badges « z Security Technical Sales » dans la filière Z Security Sales Foundations, puis dans l’examen z14/z16 Technical Sales V2. C’est la référence que les recruteurs utilisent encore dans leurs annonces.
+```
 
 '''
 ============================================================
