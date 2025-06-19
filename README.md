@@ -27,6 +27,11 @@ credly.com
 + Exam IBM Certified Specialist – z14 Technical Sales V2 (code C0002101) 
 ibm.com
 IBM a fusionné ses anciens badges « z Security Technical Sales » dans la filière Z Security Sales Foundations, puis dans l’examen z14/z16 Technical Sales V2. C’est la référence que les recruteurs utilisent encore dans leurs annonces.
+
+https://www.ibm.com/training/collection/securityracf-administrator-889?utm_source=chatgpt.com
+https://www.ibm.com/new/training/ibm-professional-certificates-ibm-skills-benchmarks-for-mainframe-security-administrators?utm_source=chatgpt.com
+https://www.credly.com/badges/c5df2e2a-024b-4248-8e09-0f4d64c354ba/linked_in_profile?utm_source=chatgpt.com
+https://www.ibm.com/training/certification/ibm-certified-specialist-z14-technical-sales-v2-C0002101?utm_source=chatgpt.com
 ```
 
 '''
