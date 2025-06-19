@@ -5,19 +5,12 @@ https://www.ibm.com/cloud/wazi-as-a-service
 ```
 https://interskill.com/ibm-credentials/ibm-professional-certificates/
 
-
-IBM Certified Associate
-IBM Certified Specialist
-IBM Certified Professional et Advanced Professional
-IBM Certified Designer
-IBM Certified Developer
-
-certificat professionnel IBM Mainframe Developer
-IBM Certified Administrator – RACF (voire le parcours IBM Cybersecurity Analyst)
+https://www.ibm.com/training/badge/ibm-z-os-mainframe-practitioner
+https://www.coursera.org/professional-certificates/ibm-mainframe-developer
 
 
 
-racf long terme :
+## racf long terme :
 Certification	Lien officiel / badge	Notes utiles pour un(e) candidat(e) junior
 IBM Certified Administrator – Security z/OS (RACF)	Collection Security / RACF Administrator – IBM Training 
 ibm.com
@@ -35,61 +28,22 @@ IBM a fusionné ses anciens badges « z Security Technical Sales » dans la fili
 
 https://www.ibm.com/training/collection/securityracf-administrator-889?utm_source=chatgpt.com
 https://www.ibm.com/new/training/ibm-professional-certificates-ibm-skills-benchmarks-for-mainframe-security-administrators?utm_source=chatgpt.com
-https://www.credly.com/badges/c5df2e2a-024b-4248-8e09-0f4d64c354ba/linked_in_profile?utm_source=chatgpt.com
 https://www.ibm.com/training/certification/ibm-certified-specialist-z14-technical-sales-v2-C0002101?utm_source=chatgpt.com
+
+
+## midterm :
+
+https://www.ibm.com/training/certification/ibm-certified-zos-v3x-administrator-professional-C9007900
+https://www.ibm.com/training/certification/ibm-certified-system-administrator-mq-v91-C0003407
+https://www.ibm.com/training/certification/ibm-certified-administrator-db2-12-for-zos-C0005400
+https://www.ibm.com/training/collection/guardium-data-protection-992
+
 ```
 
 '''
 ============================================================
 📚 FORMATIONS & CERTIFICATIONS – IBM MAINFRAME & SÉCURITÉ
 ============================================================
-
-============================================================
-1. FORMATIONS COURSERA (IBM – Officielles)
-============================================================
-
-1. Introduction to z/OS Mainframe Environment
-   https://www.coursera.org/learn/introduction-zos-mainframe
-
-2. IBM z/OS Mainframe Practitioner Professional Certificate
-   https://www.coursera.org/professional-certificates/ibm-z-os-mainframe-practitioner
-
-3. IBM Mainframe Developer Professional Certificate
-   https://www.coursera.org/professional-certificates/ibm-mainframe-developer
-
-4. IBM CICS Basics
-   https://www.coursera.org/learn/ibm-cics-basics
-
-5. IBM z/OS Mainframe Security Administration (RACF)
-   https://www.coursera.org/learn/ibm-zos-mainframe-security-administration
-
-6. IBM Cybersecurity Analyst Professional Certificate
-   https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst
-
-7. IBM z/OS Mainframe System Programming – Basics
-   https://www.coursera.org/learn/ibm-zos-mainframe-system-programming-basics
-
-============================================================
-2. CERTIFICATIONS OFFICIELLES IBM (via CRÉDLY)
-============================================================
-
-1. IBM Certified Associate - z/OS
-   https://www.credly.com/badges/70f5fef6-88a6-4321-93a6-2d88edb3c4b3
-
-2. IBM Certified System Programmer – z/OS
-   https://www.credly.com/org/ibm/badge/ibm-certified-system-programmer-z-os
-
-3. IBM Certified System Programmer – CICS TS
-   https://www.credly.com/org/ibm/badge/ibm-certified-system-programmer-cics-ts
-
-4. IBM Certified Administrator – RACF
-   https://www.credly.com/org/ibm/badge/ibm-certified-administrator-racf
-
-5. IBM Certified Advanced Administrator – RACF
-   https://www.credly.com/org/ibm/badge/ibm-certified-advanced-administrator-racf
-
-6. IBM Certified Database Administrator – DB2 for z/OS
-   https://www.credly.com/org/ibm/badge/ibm-certified-database-administrator-db2-for-z-os
 
 ============================================================
 3. AUTRES FORMATIONS PRATIQUES
